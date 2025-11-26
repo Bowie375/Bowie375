@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
+<p style="text-align: center;">
+  <img src="/github-metrics.svg" alt="Metrics" style="width: 100%; height: auto;">
+</p>
 
 <!--
 **Bowie375/Bowie375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
