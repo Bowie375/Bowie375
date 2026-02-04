@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Xiao Bowen(肖博文)，fourth year undergraduate student in Peking University
+
+- 🔭 I’m currently working on Tactile Representation Learning and Application in Embodied AI.
+
+- 📫 How to reach me:
+    - E-mail: xiaobowenbowie@stu.pku.edu.cn
+
 <!--
 **Bowie375/Bowie375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
